@@ -16,11 +16,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+
 
 ###
 
-<p align="left" >- I'm Guilherme Dias from Brazil.<br>- 📚Currently, I am gaining knowledge.<br>- ⚡ In my free time I like to improve mysel.f</p>
+<h3 align="left" >- I'm Guilherme Dias from Brazil.<br>- Currently, I am gaining knowledge.<br>- In my free time I like to improve mysel.f</h3>
 
 ###
 
